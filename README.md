@@ -29,8 +29,8 @@
          <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white&">
          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-         <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
-         <img src="https://img.shields.io/badge/Adobe illustrator-FF9A00?style=flat-square&logo=Adobe illustrator&logoColor=white">
+         <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white">
+         <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white">
        </div>
     </div><br>
 </div>
