@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%World!&fontSize=90)
 
 <div align="left">
-  ## 📞 Contact 📞
+  <br>
+  ## 📞 Contact
    <div style="display:flex; flex-direction:row;">
        <a href="mailto:kmpluto83@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -31,6 +32,13 @@
          <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white">
          <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white">
        </div><br>
+       <!-- communication & Design Tool -->
+        <p><strong>Communication</strong></p>
+         <div>
+           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+           <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white">
+         </div><br>
     </div><br>
 </div>
 
