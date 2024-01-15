@@ -7,12 +7,14 @@
       <!-- Frontend -->
       <p><strong>Frontend</strong></p>
        <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+         <img src="https://img.shields.io/badge/Css modules-000000?style=flat-square&logo=csscssmodules&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
        </div><br>
       <!-- communication & Design Tool -->
       <p><strong>Communication & Design Tool</strong></p>
@@ -39,7 +41,7 @@
          </div><br>
     </div><br>
   
-## 📞 Contact 📞
+## 📞 Contact
   <div style="display:flex; flex-direction:row;">
        <a href="mailto:kmpluto83@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
