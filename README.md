@@ -20,7 +20,6 @@
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
        </div>
-
        <!-- communication & Design Tool -->
        <p><strong>Communication</strong></p>
        <div>
