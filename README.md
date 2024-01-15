@@ -42,7 +42,7 @@
         <!-- Development Tools -->
         <p><strong>Version Control</strong></p>
          <div>
-           <img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+           <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
          </div><br>
     </div><br>
 </div>
