@@ -1,17 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%World!&fontSize=90)
 
 <div align="left">
-  
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-       <a href="mailto:kmpluto83@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-        </a>
-   </div><br>
 
-  <br>
-
-  ## 💻 Tech Stack
+## 💻 Tech Stack
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <!-- Frontend -->
       <p><strong>Frontend</strong></p>
@@ -47,6 +38,16 @@
            <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
          </div><br>
     </div><br>
+  
+## 📞 Contact 📞
+  <div style="display:flex; flex-direction:row;">
+       <a href="mailto:kmpluto83@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        </a>
+   </div><br>
+  <br>
+
+  
 </div>
 
 <!--
