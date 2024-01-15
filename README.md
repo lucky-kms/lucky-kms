@@ -42,7 +42,7 @@
            <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white">
          </div><br>
         <!-- Development Tools -->
-        <p><strong>Version Control</strong></p>
+        <p><strong>Development Tools</strong></p>
          <div>
            <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
          </div><br>
