@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
        </div><br>
       <!-- communication & Design Tool -->
-      <p><strong>Communication</strong></p>
+      <p><strong>Communication & Design Tool</strong></p>
        <div>
          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
@@ -32,12 +32,17 @@
          <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white">
          <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white">
        </div><br>
-       <!-- communication & Design Tool -->
-        <p><strong>Communication</strong></p>
+       <!-- Version Control -->
+        <p><strong>Version Control</strong></p>
          <div>
            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
            <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white">
+         </div><br>
+        <!-- Development Tools -->
+        <p><strong>Version Control</strong></p>
+         <div>
+           <img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
          </div><br>
     </div><br>
 </div>
