@@ -11,7 +11,7 @@
   ## 💻 Tech Stack
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <!-- Frontend -->
-      <div style="margin-bottom:30px;">
+      <div style="margin-bottom:30;">
         <p><strong>Frontend</strong></p>
          <div>
           <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -23,7 +23,7 @@
          </div>
       </div>
       <!-- communication & Design Tool -->
-      <div style="margin-bottom:30px;">
+      <div style="margin-bottom:30;">
         <p><strong>Communication</strong></p>
          <div>
            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
