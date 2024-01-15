@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Pronouns)
+![header]https://capsule-render.vercel.app/api?type=Pronouns
 
 
 ### Hi there 👋
