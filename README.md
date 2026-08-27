@@ -4,8 +4,8 @@
 
 ## 💻 Tech Stack
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
-     <!-- Frontend -->
-      <p><strong>Beckend</strong></p>
+    <!-- Backend -->
+      <p><strong>Backend</strong></p>
       <div>
           <p>JAVA</p>
           <p>Spring Boot</p>
@@ -13,7 +13,6 @@
           <p>JSP</p>
           <p>Mysql, MSsql</p>
       </div><br>
-    
       <!-- Frontend -->
       <p><strong>Frontend</strong></p>
       <div>
