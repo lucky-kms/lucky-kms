@@ -7,7 +7,7 @@
     <!-- Backend -->
       <p><strong>Backend</strong></p>
       <div>
-          <p>JAVA / Spring Boot / JPA / JSP / REST API /Mysql  </p>
+          <p>JAVA / Spring Boot / JPA / JSP / REST API / Mysql  </p>
       </div><br>
       <!-- Frontend -->
       <p><strong>Frontend</strong></p>
